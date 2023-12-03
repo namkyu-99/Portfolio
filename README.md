@@ -6,7 +6,7 @@
 
 <br />
 
-## 🛠️ Skills
+## 📚 Skills
 ### Strong
 <div>
   <img src="https://img.shields.io/badge/unity-000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
