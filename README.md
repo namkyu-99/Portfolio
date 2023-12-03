@@ -23,8 +23,8 @@
 <div>
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/adobe%20premiere%20pro-000058.svg?style=for-the-badge&logo=adobepremierepro&logoColor=9494F7" />
-  <img src="https://img.shields.io/badge/adobe%20audition-000058.svg?style=for-the-badge&logo=adobeaudition&logoColor=9494F7" />
+  <img src="https://img.shields.io/badge/premiere%20pro-000058.svg?style=for-the-badge&logo=adobepremierepro&logoColor=9494F7" />
+  <img src="https://img.shields.io/badge/audition-000058.svg?style=for-the-badge&logo=adobeaudition&logoColor=9494F7" />
   <img src="https://img.shields.io/badge/graphic-gray.svg?style=for-the-badge" />
   <img src="https://img.shields.io/badge/office-gray.svg?style=for-the-badge" />
 </div>
